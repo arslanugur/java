@@ -34,6 +34,68 @@ public class Program {
 
 
 //Increment & Decrement
+Increment Operators
+/* An increment or decrement operator provides a more convenient and compact way 
+to increase or decrease the value of a variable by one.
+For example, the statement x=x+1; can be simplified to ++x; */
+
+public class Program {
+    public static void main(String[] args) {
+        int test = 5;
+        ++test;
+        
+        System.out.println(test);
+    }
+}
+
+//Prefix & Postfix
+//prefix
+public class Program {
+    public static void main(String[] args) {
+        int x = 34;
+        int y = ++x;   //y = 35
+
+        System.out.println(y);
+    }
+}
+
+//postfix
+public class Program {
+    public static void main(String[] args) {
+        int x = 34;
+        int y = x++;   //y = 34
+
+        System.out.println(y);
+    }
+}
+
+
+//Assignment Operators
+
+public class Program {
+    public static void main(String[] args) {
+        int num1 = 4;
+        int num2 = 8;
+        num2 += num1;   // num2 = num2 + num1
+                       //  num2 is 12, num1 is 4
+        System.out.println(num2);
+    }
+}public class Program {
+    public static void main(String[] args) {
+        int num1 = 4;
+        int num2 = 8;
+        num2 += num1;
+        
+        System.out.println(num2);
+    }
+}
+
+
+
+//String Concatenation
+//The + (plus) operator between strings adds them together to make a new string. This process is called concatenation.
+/* The char data type represents a single character. k is a char
+//there must be a method called main
 
 
 

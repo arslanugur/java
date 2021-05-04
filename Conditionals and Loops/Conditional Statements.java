@@ -322,9 +322,37 @@ while (x < y) {
     It is from 0 to 4, while 5 will be the "break point" for the loop. 0 = 1 1 = 2 2 = 3 3 = 4 4 = 5 times*
 
 
+For Loops
+        Another loop structure is the for loop. 
+        A for loop allows you to efficiently write a loop that needs to execute a specific number of times.
+Syntax:
+for (initialization; condition; increment/decrement) {
+   statement(s)
+}
+
+        Initialization: Expression executes only once during the beginning of loop
+        Condition: Is evaluated each time the loop iterates. The loop executes the statement repeatedly, until this condition returns false.
+        Increment/Decrement: Executes after each iteration of the loop.
+
+The following example prints the numbers 1 through 5.
+ public class Program {
+    public static void main(String[] args) {
+        for(int x = 1; x <=5; x++) {
+            System.out.println(x);
+        }
+    }
+}   
+//output: 12345
+
+        This initializes x to the value 1, and repeatedly prints the value of x, until the condition x<=5 becomes false. 
+        On each iteration, the statement x++ is executed, incrementing x by one.
+        Notice the semicolon (;) after initialization and condition in the syntax.
 
 
 
+for (int i = 0; i < 10; i++) {
+   System.out.println("Great!");
+}
 
 
 

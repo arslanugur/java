@@ -11,10 +11,10 @@ public class Program {
     }
 }
 
-//Output:
-//3
-//2
-//1
+/*Output:
+3
+2
+1*/
 
 //        The while loops check for the condition x > 0. If it evaluates to true, it executes the statements within its body. Then it checks for the statement again and repeats.
 //        Notice the statement x--. This decrements x each time the loop runs, and makes the loop stop when x reaches 0.
@@ -39,12 +39,12 @@ public class Program {
     }
 }
 
-//Output:
-//6
-//7
-//8
-//9   
-//Loop ended
+/*Output:
+6
+7
+8
+9   
+Loop ended*/
 
 //        Notice that the last print method is out of the while scope.
             
@@ -187,10 +187,10 @@ public class Program {
         }
     }
 }
-/*
-10
-20
-40*/
+/*10
+  20
+  40*/
+  
         //As you can see, the above code skips the value of 30, as directed by the continue statement.
 
 

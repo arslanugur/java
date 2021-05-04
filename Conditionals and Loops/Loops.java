@@ -16,7 +16,8 @@ public class Program {
 2
 1*/
 
-//        The while loops check for the condition x > 0. If it evaluates to true, it executes the statements within its body. Then it checks for the statement again and repeats.
+//        The while loops check for the condition x > 0. If it evaluates to true, it executes the statements within its body. 
+//	  Then it checks for the statement again and repeats.
 //        Notice the statement x--. This decrements x each time the loop runs, and makes the loop stop when x reaches 0.
 //        Without the statement, the loop would run forever.
 int x = 12; 
@@ -39,12 +40,11 @@ public class Program {
     }
 }
 
-/*Output:
-6
-7
-8
-9   
-Loop ended*/
+/*Output: 6
+	  7
+	  8
+	  9   
+	  Loop ended*/
 
 //        Notice that the last print method is out of the while scope.
             
@@ -56,8 +56,7 @@ while (x < y) {
   x++;	
 }
 
-//Output: 
-//    It is from 0 to 4, while 5 will be the "break point" for the loop. 0 = 1 1 = 2 2 = 3 3 = 4 4 = 5 times*
+//Output: It is from 0 to 4, while 5 will be the "break point" for the loop. 0 = 1 1 = 2 2 = 3 3 = 4 4 = 5 times*
 
 
 For Loops
@@ -80,7 +79,11 @@ for (initialization; condition; increment/decrement) {
         }
     }
 }   
-//output: 12345
+/*output: 1
+	  2
+	  3
+	  4
+	  5*/
 
 //        This initializes x to the value 1, and repeatedly prints the value of x, until the condition x<=5 becomes false. 
 //        On each iteration, the statement x++ is executed, incrementing x by one.
@@ -109,8 +112,7 @@ for (int i = 2; i < 10; i = i*i) {
    System.out.println(i);
 }
 
-        /*
-        Output: 2
+        /* Output: 2
         Initially i is 2. Loop will run because it's satisfying the condition. After running once, i = i * i gets executed so i becomes 4. 
         4 satisfies the condition, so the loop runs the 2nd time. 
         Now i = i * i gets executed again, so i becomes 4 * 4 = 16 that DOESN'T satisfy the loop condition. 

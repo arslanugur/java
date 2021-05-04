@@ -14,4 +14,6 @@ Conditionals and Loops
 
 
 Arrays
- - 
+ - arrays.java
+ - summing-elements-in-arr.java
+ - multidimensional-arrays.java

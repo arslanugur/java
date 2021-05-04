@@ -1,3 +1,5 @@
+Operators
+
 int sum1 = 50 + 10; 
 int sum2 = sum1 + 66; 
 int sum3 = sum2 + sum2;
@@ -15,13 +17,14 @@ int x = 15; int y = 4;
 int result = x / y;
     System.out.println(result);    //output: 3
 
-//You can use double to retrieve a value with a decimal point.
+        //You can use double to retrieve a value with a decimal point.
 
-//Modulo
-/**
-The modulo (or remainder) math operation performs an integer division of one value by another, and returns the remainder of that division.
-The operator for the modulo operation is the percentage (%) character.
-*/
+Modulo
+        /**
+        The modulo (or remainder) math operation performs an integer division of one value by another, 
+        and returns the remainder of that division.
+        The operator for the modulo operation is the percentage (%) character.
+        */
 public class Program {
     public static void main(String[] args) {
         int value = 23;
@@ -30,14 +33,14 @@ public class Program {
         System.out.println(res);
     }
 }
-//Dividing 23 by 6 returns a quotient of 3, with a remainder of 5. Thus, the value of 5 is assigned to the res variable.
+        //Dividing 23 by 6 returns a quotient of 3, with a remainder of 5. Thus, the value of 5 is assigned to the res variable.
 
 
-//Increment & Decrement
+Increment & Decrement
 Increment Operators
-/* An increment or decrement operator provides a more convenient and compact way 
-to increase or decrease the value of a variable by one.
-For example, the statement x=x+1; can be simplified to ++x; */
+        /* An increment or decrement operator provides a more convenient and compact way 
+        to increase or decrease the value of a variable by one.
+        For example, the statement x=x+1; can be simplified to ++x; */
 
 public class Program {
     public static void main(String[] args) {
@@ -48,8 +51,8 @@ public class Program {
     }
 }
 
-//Prefix & Postfix
-//prefix
+Prefix & Postfix
+prefix
 public class Program {
     public static void main(String[] args) {
         int x = 34;
@@ -59,7 +62,7 @@ public class Program {
     }
 }
 
-//postfix
+postfix
 public class Program {
     public static void main(String[] args) {
         int x = 34;
@@ -70,7 +73,7 @@ public class Program {
 }
 
 
-//Assignment Operators
+Assignment Operators
 
 public class Program {
     public static void main(String[] args) {
@@ -92,10 +95,10 @@ public class Program {
 
 
 
-//String Concatenation
-//The + (plus) operator between strings adds them together to make a new string. This process is called concatenation.
-/* The char data type represents a single character. k is a char
-//there must be a method called main
+String Concatenation
+        //The + (plus) operator between strings adds them together to make a new string. This process is called concatenation.
+        // The char data type represents a single character. k is a char
+        //there must be a method called main
 
 
 

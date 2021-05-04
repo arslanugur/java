@@ -10,3 +10,7 @@ Basic Concepts
 Conditionals and Loops
   - [conditional-statements.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/conditional-statements.java)
   - [loops.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/loops.java)
+  - [demo.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/demo.java)
+
+Arrays
+ - 

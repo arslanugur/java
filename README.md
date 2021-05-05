@@ -1,19 +1,10 @@
 # java
 
-Basic Concepts
- - [basics.java](https://github.com/arslanugur/java/blob/arslan/Basic%20Concepts/basics.java)
- - [variables.java](https://github.com/arslanugur/java/blob/arslan/Basic%20Concepts/variables.java)
- - [operators.java](https://github.com/arslanugur/java/blob/arslan/Basic%20Concepts/operators.java)
- - [demo.java](https://github.com/arslanugur/java/blob/arslan/Basic%20Concepts/demo.java)
+| Basic Concepts |  Conditionals and Loops  |  Arrays  |
+| :-----------: | :-----------:  |  :-----------:  |
+|[basics.java](/Basic%20Concepts/basics.java)|[conditional-statements.java](/Conditionals%20and%20Loops/conditional-statements.java)|arrays.java|
+| [variables.java](/Basic%20Concepts/variables.java)|[loops.java](/Conditionals%20and%20Loops/loops.java)|summing-elements-in-arr.java|
+| [operators.java](/Basic%20Concepts/operators.java)| [demo.java](/Conditionals%20and%20Loops/demo.java)| multidimensional-arrays.java|
+| [demo.java](/Basic%20Concepts/demo.java)|||
 
 
-Conditionals and Loops
-  - [conditional-statements.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/conditional-statements.java)
-  - [loops.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/loops.java)
-  - [demo.java](https://github.com/arslanugur/java/blob/arslan/Conditionals%20and%20Loops/demo.java)
-
-
-Arrays
- - arrays.java
- - summing-elements-in-arr.java
- - multidimensional-arrays.java

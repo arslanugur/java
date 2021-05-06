@@ -12,6 +12,6 @@
 
 | Classes and Objects |  More on Classes  |  Exceptions, Lists, Threads & Files  |
 | :-----------: | :-----------:  |  :-----------:  |
-|[object-orientation.java](/Classes%20and%20Objects/object-orientation.java)|||
-| [methods.java](/Classes%20and%20Objects/methods.java)|||
+|[object-orientation.java](/Classes%20and%20Objects/object-orientation.java)|[encapsulation.java](/Classes%20and%20Objects/encapsulation.java)||
+| [methods.java](/Classes%20and%20Objects/methods.java)|[inheritance.java](/Classes%20and%20Objects/inheritance.java)||
 

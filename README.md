@@ -20,8 +20,6 @@
 | [access-modifiers.java](/Classes%20and%20Objects/creating-classes-and-objects.java)|[interfaces.java](/More%20on%20Classes/interfaces.java)|[linkedlists.java](/Exceptions,%20Lists,%20Threads%20&%20Files/linkedlists.java)|
 | [getters-and-setters.java](/Classes%20and%20Objects/getters-and-setters.java)| [casting.java](/More%20on%20Classes/casting.java)| [hashmap.java](/Exceptions,%20Lists,%20Threads%20&%20Files/hashmap.java)|
 | [constructors.java](/Classes%20and%20Objects/constructors.java)| [downcasting.java](/More%20on%20Classes/downcasting.java)| [sets.java](/Exceptions,%20Lists,%20Threads%20&%20Files/sets.java)|
-
-
 | [value-and-reference-types.java](/Classes%20and%20Objects/value-and-reference-types.java)| [anonymous-classes.java](/More%20on%20Classes/anonymous-classes.java)| [sorting-lists.java](/Exceptions,%20Lists,%20Threads%20&%20Files/sorting-lists.java)|
 | [the-math-class.java](/Classes%20and%20Objects/the-math-class.java)| [inner-classes.java](/More%20on%20Classes/inner-classes.java)| [iterators.java](/Exceptions,%20Lists,%20Threads%20&%20Files/iterators.java)|
 | [static.java](/Classes%20and%20Objects/static.java)| [the-equals()-method.java](/More%20on%20Classes/the-equals()-method.java)| [working-with-files.java](/Exceptions,%20Lists,%20Threads%20&%20Files/working-with-files.java)|

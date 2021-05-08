@@ -25,7 +25,7 @@
 | [static.java](/Classes%20and%20Objects/static.java)| [the-equals()-method.java](/More%20on%20Classes/the-equals()-method.java)| [working-with-files.java](/Exceptions,%20Lists,%20Threads%20&%20Files/working-with-files.java)|
 | [final.java](/Classes%20and%20Objects/final.java)| [enums.java](/More%20on%20Classes/enums.java)| [reading-a-file.java](/Exceptions,%20Lists,%20Threads%20&%20Files/reading-a-file.java)|
 | [packages.java](/Classes%20and%20Objects/packages.java)| [using-the-java-API.java](/More%20on%20Classes/using-the-java-API.java)| [creating-and-writing-files.java](/Exceptions,%20Lists,%20Threads%20&%20Files/creating-and-writing-files.java)|
-| [module4-quiz.java](/Classes%20and%20Objects/module4-quiz.java)| [Module5-quiz.java](/More%20on%20Classes/Module5-quiz.java)| [module6-quiz.java](/Exceptions,%20Lists,%20Threads%20&%20Files/module6-quiz.java)|
+| [module4-quiz.java](/Classes%20and%20Objects/module4-quiz.java)| [module5-quiz.java](/More%20on%20Classes/module5-quiz.java)| [module6-quiz.java](/Exceptions,%20Lists,%20Threads%20&%20Files/module6-quiz.java)|
 | [demo.java](/Classes%20and%20Objects/demo.java)| [demo.java](/More%20on%20Classes/demo.java)| [demo.java](/Exceptions,%20Lists,%20Threads%20&%20Files/demo.java)|
 
 

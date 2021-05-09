@@ -54,7 +54,7 @@ public class Program {
         double p = Math.pow(2, 3);
         System.out.println(p);
     }
-}     //8.0
+}     //output: 8.0
 
 
       //There are a number of other methods available in the Math class, 

@@ -60,7 +60,48 @@ class Dog Animal {
   }	
 }  
   
+      For example, we can define our Animal class as abstract:
+abstract class Animal {
+  int legs = 0;
+  abstract void makeSound();
+}
+
+      The makeSound method is also abstract, as it has no implementation in the superclass.
+      We can inherit from the Animal class and define the makeSound() method for the subclass:  
+abstract class Animal {
+    int legs = 0;
+    abstract void makeSound();
+}
+
+class Cat extends Animal {
+    public void makeSound() {
+        System.out.println("Meow");
+    }
+}
+
+public class Program {
+    public static void main(String[] args) {
+        Cat c = new Cat();
+        c.makeSound();
+    }     //output: Meow
+      
+      Every Animal makes a sound, but each has a different way to do it. 
+      That's why we define an abstract class Animal, and leave the implementation of how they make sounds to the subclasses.
+      This is used when there is no meaningful definition for the method in the superclass.
+      
+      
+       to create an abstract class with an abstract method and inherit from it.
+abstract class Animal {
+  public int age;
+  public abstract int printAge();
+}
+class Dog extends Animal {
+  public int printAge() {
+    return age;
+  }	
+}
   
-  
-  
-  
+
+      
+      
+      

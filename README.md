@@ -6,7 +6,7 @@
 | [variables.java](/Basic%20Concepts/variables.java)|[loops.java](/Conditionals%20and%20Loops/loops.java)|[summing-elements-in-arr.java](summing-elements-in-arr.java)|
 | [operators.java](/Basic%20Concepts/operators.java)| [do-while-loops.java](/Conditionals%20and%20Loops/do-while-loops.java)|[enhanced-for-loop.java](/Arrays/enhanced-for-loop.java)|
 | [module1-quiz.java](/Basic%20Concepts/module1-quiz.java)|[module2-quiz.java](/Conditionals%20and%20Loops/module2-quiz.java)|[multidimensional-arrays.java](/Arrays/multidimensional-arrays.java)|
-| [demo.java](/Basic%20Concepts/demo.java)[demo.java](/Basic%20Concepts/demo.java)|  [demo.java](/Conditionals%20and%20Loops/demo.java) |  [demo.java](/Arrays/demo.java)  |
+| [demo.java](/Basic%20Concepts/demo.java)|  [demo.java](/Conditionals%20and%20Loops/demo.java) |  [demo.java](/Arrays/demo.java)  |
 
 | Classes and Objects |  More on Classes  |  Exceptions, Lists, Threads & Files  |
 | :-----------: | :-----------:  |  :-----------:  |

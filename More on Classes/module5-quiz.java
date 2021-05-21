@@ -14,27 +14,27 @@ class A {
      object.print(12);	
    }	
 }     //output: c   
+      
+    /*Because the new object in the main method passes the number 12 which is an integer to A class. 
+      Of all the print methods in class A, only one accepts an integer and that method prints C.*/
 
-/*Because the new object in the main method passes the number 12 which is an integer to A class. 
-  Of all the print methods in class A, only one accepts an integer and that method prints C.*/
+    /*Its called method overloading. 
+      to use same method name for calling different set of code based on types and numbers(number of parameters) passed to method. 
+      its a part of polymorphism in object oriented design.*/
 
-//Its called method overloading. 
-//to use same method name for calling different set of code based on types and numbers(number of parameters) passed to method. 
-//its a part of polymorphism in object oriented design.
+    /*Overloading topic from earlier. 
+      Because the parameter is an int type, it will look for int type to fit in the methods parameter.*/
 
-//Overloading topic from earlier. 
-//Because the parameter is an int type, it will look for int type to fit in the methods parameter.
-
-/*the new object.print delivers the integer 12 To the only method that accepts an integer argument. 
-  print ( int x ) // output " c " Not The first print method, it does not take an argument. 
-  print () // output " a " Not The second print method, it takes a string str argument. 
-  print ( String Str ) outputs " b " So you have to make sure to break down and analyze every part of the code.*/ 
+    /*the new object.print delivers the integer 12 To the only method that accepts an integer argument. 
+      print ( int x ) // output " c " Not The first print method, it does not take an argument. 
+      print () // output " a " Not The second print method, it takes a string str argument. 
+      print ( String Str ) outputs " b " So you have to make sure to break down and analyze every part of the code.*/ 
 
 
 
       ---
-      to define a new class Falcon, based on the superclass Bird.
-class Falcon exrends Bird {
+      //to define a new class Falcon, based on the superclass Bird.
+class Falcon extends Bird {
 }
     /*we are creating a class hence the keyword "class" should be used. 
       That class is inheriting its properties from a superclass bird hence we use "extends" keyword. 
@@ -77,8 +77,8 @@ class Falcon exrends Bird {
         
         
       ---
-      Valentine, Holiday, and Birthday inherit from the class Card. 
-      In order for the following code to be correct, what type must the reference variable card be? ---> Card
+    /*Valentine, Holiday, and Birthday inherit from the class Card. 
+      In order for the following code to be correct, what type must the reference variable card be?*/
 
       card = new Valentine( "A", 14 ) ;
       card.greeting();
@@ -89,7 +89,7 @@ class Falcon exrends Bird {
       card = new Birthday( "C", 12 ) ;
       card.greeting();  
         
-      Card is the reference variable for the type/class Card and you are pointing the reference variable card 
+    /*Card is the reference variable for the type/class Card and you are pointing the reference variable card 
         to the Valentine, Holiday, and Birthday objects. 
       Because Card is the superclass and Valentine, Holiday, and Birthday are subclasses, the answer is Card.
         
@@ -101,7 +101,7 @@ class Falcon exrends Bird {
       which are definitely going to be present in these sub-classes 
       but these sub-classes have some specific qualities as well that make them different from one another and 
       that's why these classes are known as specialised class 
-      and the process of creating new classes from currently existing class is known as specialisation.
+      and the process of creating new classes from currently existing class is known as specialisation.*/
         
                
         

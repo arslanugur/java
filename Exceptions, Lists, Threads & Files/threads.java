@@ -6,7 +6,7 @@ Threads
       The following diagram shows the life-cycle of a thread.
         
       New Thread() ----> New --Start()--> Runnable() --run()-->
-		    |				                                        |	
-		   Dead        <---End of execution----         Running
-		    |				                                       |
-		    <-----   Waiting        <----Sleep(), wait()---  
+		    |				          |	
+		   Dead    <---End of execution----    Running
+		    |				          |
+		    <-----   Waiting <----Sleep(), wait()---  

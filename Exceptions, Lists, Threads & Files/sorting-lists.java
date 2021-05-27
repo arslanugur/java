@@ -45,6 +45,8 @@ Collections.sort(list);
 System.out.println(list.get(0));     //output: a
       
       
+      https://www.javatpoint.com/Comparable-interface-in-collection-framework      
+
       You can call the sort() methods on different types of Lists, such as Integers.
 import java.util.ArrayList;
 import java.util.Collections;
@@ -123,7 +125,7 @@ list.add(1);
 Collections.sort(list);
 System.out.println(list.get(1));
 
-
+            
       
       
       

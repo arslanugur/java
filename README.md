@@ -26,6 +26,25 @@
 | [module4-quiz.java](/Classes%20and%20Objects/module4-quiz.java)| [module5-quiz.java](/More%20on%20Classes/module5-quiz.java)| [module6-quiz.java](/Exceptions,%20Lists,%20Threads%20&%20Files/module6-quiz.java)|
 | [demo.java](/Classes%20and%20Objects/demo.java)| [demo.java](/More%20on%20Classes/demo.java)| [demo.java](/Exceptions,%20Lists,%20Threads%20&%20Files/demo.java)|
 
-
-
-
+| Implements |
+| :-----------: |
+|[implementing-bubble-sort.java](/implements/implementing-bubble-sort.java)|
+|[implementing-a-linked-list.java](/implements/implementing-a-linked-list.java)|
+|[wrapper-classes.java](/implements/wrapper-classes.java)|
+|[implementing-binary-tree.java](/implements/implementing-binary-tree.java)|
+|[implementing-a-stack.java](/implements/implementing-a-stack.java)|
+|[implementing-a-graph-using-adjacency-matrix.java](/implements/implementing-a-graph-using-adjacency-matrix.java)|
+|[implementing-a-hash-table.java](/implements/implementing-a-hash-table.java)|
+|[implementing-a-queue.java](/implements/implementing-a-queue.java)|
+|[matrix-multiplication.java](/implements/matrix-multiplication.java)|
+|[upper-and-lower-bounds-of-numeric-datatypes.java](/implements/upper-and-lower-bounds-of-numeric-datatypes.java)|
+|[implementing-selection-sort.java](/implements/implementing-selection-sort.java)|
+|[implementing-binary-search-tree.java](/implements/implementing-binary-search-tree.java)|
+|[implementing-binary-search.java](/implements/implementing-binary-search.java)|
+|[adding-matrices.java](/implements/adding-matrices.java)|
+|[transposing-a-matrix.java](/implements/transposing-a-matrix.java)|
+|[underscores-in-numeric-literals.java](/implements/underscores-in-numeric-literals.java)|
+|[implementing-merge-sort.java](/implements/implementing-merge-sort.java)|
+|[implementing-insertion-sort.java](/implements/implementing-insertion-sort.java)|
+|[implementing-quick-sort.java](/implements/implementing-quick-sort.java)|
+|[implementing-linear-search.java](/implements/implementing-linear-search.java)|

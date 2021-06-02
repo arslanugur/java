@@ -3,7 +3,7 @@ Matrix Multiplication in Java
       Each element of that matrix is the dot product of each corresponding row of the first matrix 
       and the corresponding column of the second matrix.
 
-      Let's define a function mult, that will take the two arrays as arguments, and returns their multiplication:
+      //Let's define a function mult, that will take the two arrays as arguments, and returns their multiplication:
 public class Matrix {
 
     static int[][] mult(int a[][], int b[][]) {

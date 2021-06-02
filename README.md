@@ -28,9 +28,9 @@
 
 | Implements |Implements|
 | :-----------: |:-----------: |
-|[implementing-bubble-sort.java](/implements/implementing-bubble-sort.java)|[implementing-binary-search-tree.java](/implements/implementing-binary-search-tree.java)|
+|[implementing-bubble-sort.java](/implements/implementing-bubble-sort.java)|[implementing-binary-search.java](/implements/implementing-binary-search.java)|
 |[implementing-a-linked-list.java](/implements/implementing-a-linked-list.java)|[implementing-binary-tree.java](/implements/implementing-binary-tree.java)|
-|[wrapper-classes.java](/implements/wrapper-classes.java)|[implementing-binary-search.java](/implements/implementing-binary-search.java)|
+|[wrapper-classes.java](/implements/wrapper-classes.java)|[implementing-binary-search-tree.java](/implements/implementing-binary-search-tree.java)|
 |[implementing-a-stack.java](/implements/implementing-a-stack.java)|[implementing-linear-search.java](/implements/implementing-linear-search.java)|
 |[implementing-a-graph-using-adjacency-matrix.java](/implements/implementing-a-graph-using-adjacency-matrix.java)|[implementing-selection-sort.java](/implements/implementing-selection-sort.java)|
 |[implementing-a-hash-table.java](/implements/implementing-a-hash-table.java)|[implementing-merge-sort.java](/implements/implementing-merge-sort.java)|

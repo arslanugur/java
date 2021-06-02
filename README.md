@@ -28,15 +28,15 @@
 
 | Implements |Implements|
 | :-----------: |:-----------: |
-|[implementing-bubble-sort.java](/implements/implementing-bubble-sort.java)|[implementing-binary-tree.java](/implements/implementing-binary-tree.java)|
-|[implementing-a-linked-list.java](/implements/implementing-a-linked-list.java)|[implementing-binary-search.java](/implements/implementing-binary-search.java)|
-|[wrapper-classes.java](/implements/wrapper-classes.java)|[implementing-binary-search-tree.java](/implements/implementing-binary-search-tree.java)|
-|[implementing-a-stack.java](/implements/implementing-a-stack.java)|[implementing-linear-search.java](/implements/implementing-linear-search.java)|
-|[implementing-a-graph-using-adjacency-matrix.java](/implements/implementing-a-graph-using-adjacency-matrix.java)|[implementing-selection-sort.java](/implements/implementing-selection-sort.java)|
-|[implementing-a-hash-table.java](/implements/implementing-a-hash-table.java)|[implementing-merge-sort.java](/implements/implementing-merge-sort.java)|
-|[implementing-a-queue.java](/implements/implementing-a-queue.java)|[implementing-insertion-sort.java](/implements/implementing-insertion-sort.java)|
-|[matrix-multiplication.java](/implements/matrix-multiplication.java)|[implementing-quick-sort.java](/implements/implementing-quick-sort.java)|
-|[adding-matrices.java](/implements/adding-matrices.java)|[upper-and-lower-bounds-of-numeric-datatypes.java](/implements/upper-and-lower-bounds-of-numeric-datatypes.java)|
-|[transposing-a-matrix.java](/implements/transposing-a-matrix.java)|[underscores-in-numeric-literals.java](/implements/underscores-in-numeric-literals.java)|
+|[implementing-bubble-sort.java](Implements/implementing-bubble-sort.java)|[implementing-binary-tree.java](/Implements/implementing-binary-tree.java)|
+|[implementing-a-linked-list.java](/Implements/implementing-a-linked-list.java)|[implementing-binary-search.java](/Implements/implementing-binary-search.java)|
+|[wrapper-classes.java](/Implements/wrapper-classes.java)|[implementing-binary-search-tree.java](/Implements/implementing-binary-search-tree.java)|
+|[implementing-a-stack.java](/Implements/implementing-a-stack.java)|[implementing-linear-search.java](/Implements/implementing-linear-search.java)|
+|[implementing-a-graph-using-adjacency-matrix.java](/Implements/implementing-a-graph-using-adjacency-matrix.java)|[implementing-selection-sort.java](/Implements/implementing-selection-sort.java)|
+|[implementing-a-hash-table.java](/Implements/implementing-a-hash-table.java)|[implementing-merge-sort.java](/Implements/implementing-merge-sort.java)|
+|[implementing-a-queue.java](/Implements/implementing-a-queue.java)|[implementing-insertion-sort.java](/Implements/implementing-insertion-sort.java)|
+|[matrix-multiplication.java](/Implements/matrix-multiplication.java)|[implementing-quick-sort.java](/Implements/implementing-quick-sort.java)|
+|[adding-matrices.java](/Implements/adding-matrices.java)|[upper-and-lower-bounds-of-numeric-datatypes.java](/Implements/upper-and-lower-bounds-of-numeric-datatypes.java)|
+|[transposing-a-matrix.java](/Implements/transposing-a-matrix.java)|[underscores-in-numeric-literals.java](/Implements/underscores-in-numeric-literals.java)|
 
 

@@ -4,7 +4,7 @@ Merge Sort in Java
 
       We will need a Merge function, to merge the two halves into a sorted data.
       
-      Let's implement the algorithm using recursion:
+      //Let's implement the algorithm using recursion:
 class MergeSort {
     static void merge(int arr[], int l, int m, int r) {
         int n1 = m-l+1;
@@ -60,12 +60,14 @@ class MergeSort {
     }
 }  //output: 6 10 54 63 420
 
+      /*
       We are taking the array, divide it into two parts and continue this process until each element becomes a single item. 
       Then we start to merge them back together in a sorted manner to get the result.
       
       Variable, field and method names start with lowercase in Java. 
       Also, array declaration with brackets after the name and not after the type is discouraged by convention. 
       Single letter variables don't easily explain their meaning. This code is very poorly legible.
+      */
 
       Another Example using Py:
 """

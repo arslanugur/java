@@ -1,7 +1,7 @@
 Adjacency Matrix in Java
-      An adjacency matrix is a square matrix used to represent a finite graph. 
-      The elements of the matrix indicate whether pairs of vertices are adjacent or not - 
-      we will use the value 1 for adjacent vertices, 0 - for not adjacent ones. 
+      //An adjacency matrix is a square matrix used to represent a finite graph. 
+      //The elements of the matrix indicate whether pairs of vertices are adjacent or not - 
+      //we will use the value 1 for adjacent vertices, 0 - for not adjacent ones. 
       
       //If the graph is undirected, the adjacency matrix is symmetric.
 

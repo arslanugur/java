@@ -1,8 +1,8 @@
 Binary Tree in Java
-      A binary tree is a data structure in which each node has at most two children.
-      To implement a binary tree, let's first define a node class to will represent a single node in the tree. 
+      //A binary tree is a data structure in which each node has at most two children.
+      //To implement a binary tree, let's first define a node class to will represent a single node in the tree. 
       
-      Each node can have left and right nodes, so we will have left & right pointers in the class:
+      //Each node can have left and right nodes, so we will have left & right pointers in the class:
 class Node {
   int data;
   Node left, right;
@@ -97,9 +97,9 @@ class BinaryTree {
 }
 //ouput:...
 
-
+      /*
       We implemented the insert() method recursively 
       and randomly selected the side where the new node should be inserted.
-      
+      */
       
       

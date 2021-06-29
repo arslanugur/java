@@ -1,9 +1,9 @@
 Linked List in Java
-      Each element(or node) in the linked list has data and a pointer to another data.
-      The pointer stores the memory location of the next node.
-      The last node of the list should point to nothing - it should be a null pointer.
+      //Each element(or node) in the linked list has data and a pointer to another data.
+      //The pointer stores the memory location of the next node.
+      //The last node of the list should point to nothing - it should be a null pointer.
       
-      To create the Node class:
+      //To create the Node class:
 class LinkedList {
   class Node {
     int value;
@@ -15,10 +15,10 @@ class LinkedList {
   }
 }
 
-      The node object contains a value field and a next pointer.
+      //The node object contains a value field and a next pointer.
 
 
-      Now we can create the corresponding LinkedList methods:
+      //Now we can create the corresponding LinkedList methods:
 class LinkedList {
     
     static class Node {

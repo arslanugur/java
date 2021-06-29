@@ -1,9 +1,9 @@
 Linear Search in Java
-      Linear Search is a simple search algorithm, which checks every element of the array for a match, 
-      and returns the index of the matched element.
-      The implementation is very simple - we just need one loop to go through the whole array and check for a match.
+      //Linear Search is a simple search algorithm, which checks every element of the array for a match, 
+      //and returns the index of the matched element.
+      //The implementation is very simple - we just need one loop to go through the whole array and check for a match.
       
-      Let's search for the value x in an array called arr:
+      //Let's search for the value x in an array called arr:
 class LinearSearch
 {
     static int search(int[] arr, int x) {
@@ -20,17 +20,18 @@ class LinearSearch
     }
 } //output: 3
 
-
+      /*
       We iterate through the array using a for loop and check for a match. 
       If the current element is equal to x, the index of that element is returned.
       
       -1 is returned if no match is found!!
       
-      
       once you get the index of the element in the array 
-      you can easilly call the actual content in the next line of code by asking for content of the element with that index.
+      you can easilly call the actual content in the next line of code 
+      by asking for content of the element with that index.
+      */
       
-      Another Example:
+      //Another Example:
 public class Program{
 public static void main(String[] args) {
   
@@ -49,7 +50,5 @@ static int linearSearch(int[] arr,int target){
 }
 
 } //output:3
-
-
 
 

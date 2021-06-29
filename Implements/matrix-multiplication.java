@@ -1,7 +1,7 @@
 Matrix Multiplication in Java
-      The result of an m by n matrix multiplied by an n by k matrix results in an m by k matrix. 
+    /*The result of an m by n matrix multiplied by an n by k matrix results in an m by k matrix. 
       Each element of that matrix is the dot product of each corresponding row of the first matrix 
-      and the corresponding column of the second matrix.
+      and the corresponding column of the second matrix.*/
 
       //Let's define a function mult, that will take the two arrays as arguments, and returns their multiplication:
 public class Matrix {
@@ -52,6 +52,7 @@ public class Matrix {
 1
 */
 
+      /*
       The code above iterates through the elements of the arrays 
       and calculates their corresponding dot products in the res array.
 
@@ -63,8 +64,7 @@ public class Matrix {
       You better use a numeric library when you need you multiply matrices. 
       Many optimizations will be added. 
       https://en.m.wikipedia.org/wiki/List_of_numerical_libraries
+      */
       
       
-      
-      
-      
+     

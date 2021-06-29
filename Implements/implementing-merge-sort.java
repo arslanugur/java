@@ -1,8 +1,8 @@
 Merge Sort in Java
-      Merge Sort is dividing the array in half over and over again until each piece is only one item long. 
-      Then those items are put back together (merged) in sort-order.
+      //Merge Sort is dividing the array in half over and over again until each piece is only one item long. 
+      //Then those items are put back together (merged) in sort-order.
 
-      We will need a Merge function, to merge the two halves into a sorted data.
+      //We will need a Merge function, to merge the two halves into a sorted data.
       
       //Let's implement the algorithm using recursion:
 class MergeSort {
@@ -69,19 +69,19 @@ class MergeSort {
       Single letter variables don't easily explain their meaning. This code is very poorly legible.
       */
 
-      Another Example using Py:
-"""
+      //Another Example using Py:
+/*
 # Algorithm name: Merge Sort(Pure Implementetion of Algorithm)
 # Time complexity: O(n*log(n))
 # Space complexity: O(n)
 # Stable: True
 # Inplace: False
-"""
+*/
 
 
-#enter your list here:
+//enter your list here:
 list = [19,11,22,24,14,7,20,25,21,1,4,17,26,2,9,23,15,14,3,5,8,6,0,30,18,10,12,13,16,27,29]
-#if you want to reverse it then make the rEverse variable True
+//if you want to reverse it then make the rEverse variable True
 reverse = False
 
 def merge(A, B):

@@ -1,10 +1,10 @@
 Binary Search in Java
-      Binary Search is searching the sorted array by repeatedly dividing the search interval in half. 
+    /*Binary Search is searching the sorted array by repeatedly dividing the search interval in half. 
       We can use recursion to implement the algorithm. 
       During each iteration, we take the middle element, compare it with the searched value, 
-      then take the corresponding half and repeat the process.
+      then take the corresponding half and repeat the process.*/
       
-      Our function will search for the value x in the array arr:
+    //Our function will search for the value x in the array arr:
 class LinearSearch {
     static int binarySearch(int arr[], int l, int r, int x) {
         if (r >= l) {
@@ -25,19 +25,20 @@ class LinearSearch {
     }
 } // output: 3
 
-      We return -1, if the element is not found.
+      //We return -1, if the element is not found.
       
-      It's very important to mention that the array must be sorted before implementing the binary search on it.
-      
-      
+      //It's very important to mention that the array must be sorted before implementing the binary search on it.
+            
+      /*
       what is the result of mid if "lo = 0" and "hi = 7" (mid=(lo+hi)/2=??)
       In Java, as in many programming languages (not like in Python for example), 
       when you divide an integer 'int' by another 'int' the result is an 'int'. 
       Always it's rounded down. So in the question, mid = 7/2 = 3.
+      */
+
+      //It's faster than linear search. as it operates on O(logn) in worst case. much quicker than the recursive one.
       
-      It's faster than linear search. as it operates on O(logn) in worst case. much quicker than the recursive one.
-      
-      Here's an implementation without using recursion:
+      //Here's an implementation without using recursion:
 public class BinarySearch
 {
     public static int binarySearch(int[] arr, int x)
@@ -64,7 +65,7 @@ public class BinarySearch
 }     //output: No output.
 
 
-      Another Example:
+      //Another Example:
 /*
 Two examples where you can use binary search and how it works.
 l = left
@@ -158,7 +159,7 @@ public class Program
 }
 
 
-      Another Example combined with Bubble Sort (Sort and search in one place):
+      //Another Example combined with Bubble Sort (Sort and search in one place):
 import java.util.Scanner;
 class SortingAndSearching {
       /* for small list(s) i prefer bubble sort it is straight forward.
@@ -221,5 +222,4 @@ class SortingAndSearching {
     }
 }
         
-      
-      
+     

@@ -1,0 +1,36 @@
+--> CLASS
+      A class is like a blueprint of data member and functions class is a user-defined data type which holds its own data.
+      fig: Class
+      Car --> methods - drive()
+      Car --> attributes - maxSpeed
+      
+class student --> class name
+{
+  char name; --> characteristics
+  int roll no; --> characteristics
+  void attend classes() --> function
+   {.................
+    ....function.....
+    .................
+    }
+  }
+  
+  
+--> OBJECT
+      An object is a self-contained component which consists of methods and properties to make data useful
+      Each object is an instance of a particular class
+      fig: Object
+      Car --> BMW, Tesla, Audi
+      
+      
+ --> INHERITANCE
+      Inheritance is a mechanism where the sub or child class inherits the properties and characteristics of super class
+      fig: Inheritance
+      class Car     --> base class
+          |
+      class Tesla   --> derived class 1
+          |
+      class BMW     --> derived class 1
+      
+      
+      

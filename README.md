@@ -41,28 +41,28 @@
 
 
 # programs
-Basic
-Formula
-Number
-Data Structures
-Search
-Sort
-String
-Thread
-Loop
-File Handling
-Miscellaneous
-OOPS
-Applet
-GUI
-Array
-Pattern
-Exception Handling
-Vector
-Swing
-Collection
-Recursion
-Awt
-System
-Mathematics and Science
+- Basic
+- Formula
+- Number
+- Data Structures
+- Search
+- Sort
+- String
+- Thread
+- Loop
+- File Handling
+- Miscellaneous
+- OOPS
+- Applet
+- GUI
+- Array
+- Pattern
+- Exception Handling
+- Vector
+- Swing
+- Collection
+- Recursion
+- Awt
+- System
+- Mathematics and Science
 
